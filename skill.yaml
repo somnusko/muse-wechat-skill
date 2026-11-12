@@ -1,0 +1,5 @@
+name: "muse-wechat-skill"
+title: "微信接 Muse"
+description: "把个人微信接到 Muse 上，让用户在微信里直接指挥这个有记忆的个人助理。"
+category: "Work and knowledge"
+include_in_prompt: false
